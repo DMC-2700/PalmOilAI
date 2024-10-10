@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Unripe</folder>
+	<filename>close-up-of-unripe-palm-oil-dates-in-sabah-malaysia-T9EW68.jpg</filename>
+	<path>C:\Users\schoo\Documents\Dataset\Training\Palmoil\Unripe\close-up-of-unripe-palm-oil-dates-in-sabah-malaysia-T9EW68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PalmUnripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>184</ymin>
+			<xmax>1046</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>
