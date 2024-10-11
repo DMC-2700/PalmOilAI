@@ -77,7 +77,7 @@ model.summary()
 if validation_generator:  # Only train if validation generator exists
     history = model.fit(
         train_generator,
-        epochs=10,  # Adjust as needed
+        epochs=28,  # Adjust as needed
         steps_per_epoch=train_generator.samples // train_generator.batch_size,
         validation_data=validation_generator,
         validation_steps=validation_generator.samples // validation_generator.batch_size
@@ -85,9 +85,12 @@ if validation_generator:  # Only train if validation generator exists
 else:
     history = model.fit(
         train_generator,
-        epochs=10,  # Adjust as needed
+        epochs=28,  # Adjust as needed
         steps_per_epoch=train_generator.samples // train_generator.batch_size
     )
+
+# Save the trained model
+model.save('best_model.h5')  # Save the model for future use
 
 # Plot Training History
 plt.figure(figsize=(12, 5))
