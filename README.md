@@ -7,6 +7,7 @@ TensorFlow
 NumPy
 Seaborn
 Python 3.15
+OpenCV
 
 How to Install:
 
@@ -28,6 +29,10 @@ Python/VSCode:
 
 https://code.visualstudio.com/download
 ![image](https://github.com/user-attachments/assets/dacabd37-5736-4629-940d-8a46270d6b8b)
+
+OpenCV:
+![image](https://github.com/user-attachments/assets/0d146ec6-214e-48fb-81db-bf376233cae4)
+
 
 Credits:
 Casper Tan Jia Le
