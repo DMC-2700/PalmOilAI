@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Testcases</folder>
+	<filename>A-Complete-Guide-for-Palm-Oil-Plantation.jpg</filename>
+	<path>C:\Users\schoo\Desktop\Project Artemis\Testcases\A-Complete-Guide-for-Palm-Oil-Plantation.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>495</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PalmFruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>89</ymin>
+			<xmax>493</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PalmFruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>22</ymin>
+			<xmax>296</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testcases</folder>
+	<filename>Unripe.jpg</filename>
+	<path>C:\Users\schoo\Desktop\Project Artemis\Testcases\Unripe.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>302</width>
+		<height>247</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PalmFruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>9</ymin>
+			<xmax>298</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

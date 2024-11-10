@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testcases</folder>
+	<filename>close-up-of-unripe-palm-oil-dates-in-sabah-malaysia-T9EW68.jpg</filename>
+	<path>C:\Users\schoo\Desktop\Project Artemis\Testcases\close-up-of-unripe-palm-oil-dates-in-sabah-malaysia-T9EW68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>628</width>
+		<height>621</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PalmFruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>16</ymin>
+			<xmax>607</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

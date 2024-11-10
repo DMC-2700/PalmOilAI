@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Overipe</folder>
+	<filename>images.jpg</filename>
+	<path>C:\Users\schoo\Desktop\Project Artemis\Dataset\Training\Palmoil\Overipe\images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>248</width>
+		<height>203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PalmOverRipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>42</ymin>
+			<xmax>155</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PalmOverRipe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>44</ymin>
+			<xmax>228</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

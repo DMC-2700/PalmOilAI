@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testcases</folder>
+	<filename>Bunches-of-palm-oil-a-unripe-b-underripe-c-ripe-and-d-overripe-Junkwon-et-al - Copy (2).png</filename>
+	<path>C:\Users\schoo\Desktop\Project Artemis\Testcases\Bunches-of-palm-oil-a-unripe-b-underripe-c-ripe-and-d-overripe-Junkwon-et-al - Copy (2).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>282</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PalmFruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>7</ymin>
+			<xmax>344</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

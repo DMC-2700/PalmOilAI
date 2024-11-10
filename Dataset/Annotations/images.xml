@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Testcases</folder>
+	<filename>images.jpg</filename>
+	<path>C:\Users\schoo\Desktop\Project Artemis\Testcases\images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>170</width>
+		<height>161</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PalmFruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>15</ymin>
+			<xmax>163</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>
